@@ -38,7 +38,7 @@ reg [31:0] x0,x1,x2;
 always@(posedge clk or posedge rst) begin
     if (rst) begin
         x0 <= 1;
-        x1 <= 100;
+        x1 <= 5;
         x2 <= 1;
              end
      else if (w_sel==0 && w_en)
