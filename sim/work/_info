@@ -1,0 +1,298 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Administrator/OneDrive/Desktop/jamshaid_uvm/sim
+T_opt
+!s11d dds_pkg C:/Users/Administrator/OneDrive/Desktop/jamshaid_uvm/sim/work 1 dds_core_if 1 C:/Users/Administrator/OneDrive/Desktop/jamshaid_uvm/sim/work 
+!s11d uvm_pkg C:/questasim64_2024.1/uvm-1.1d 1 dds_core_if 1 C:/Users/Administrator/OneDrive/Desktop/jamshaid_uvm/sim/work 
+!s110 1782987929
+ViM<nnS:1jfIIQB^MTa=>A2
+Z2 04 6 4 work tb_top fast 0
+=1-d0abd58b0e84-6a463c98-301-52c0
+R0
+Z3 !s12f OEM100
+Z4 !s12b OEM100
+Z5 !s124 OEM100
+Z6 o-quiet -auto_acc_if_foreign -work work +acc -timescale=1ns/1ps
+Z7 tCvgOpt 0
+n@_opt
+Z8 OL;O;2024.1;79
+R1
+T_opt1
+!s11d dds_pkg C:/Users/DELL/Desktop/DDS_Core/sim/work 1 dds_core_if 1 C:/Users/DELL/Desktop/DDS_Core/sim/work 
+!s11d uvm_pkg C:/questasim64_2024.1/uvm-1.1d 1 dds_core_if 1 C:/Users/DELL/Desktop/DDS_Core/sim/work 
+!s110 1785329224
+VzKRC_TWiO`ckzcgBkgZM;2
+R2
+=1-08f97eb717b5-6a69f646-af-29e0
+R0
+R3
+R4
+R5
+R6
+R7
+n@_opt1
+R8
+vDDS_Core
+2../rtl/DDS_Core.v
+Z9 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z10 !s110 1785329220
+!i10b 1
+!s100 mY1BB7d:=4GYFQ;@Zb3gI0
+IDaJDkSo7><Y3QRnFWBBdM2
+S1
+Z11 dC:/Users/DELL/Desktop/DDS_Core/sim
+w1782986776
+8../rtl/DDS_Core.v
+F../rtl/DDS_Core.v
+!i122 3
+L0 4 50
+Z12 VDg1SIo80bB@j0V0VzS_@n1
+Z13 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z14 !s108 1785329219.000000
+!s107 ../rtl/DDS_Core.v|
+!s90 -reportprogress|300|-sv|+incdir+../rtl|../rtl/DDS_Core.v|
+!i113 0
+Z15 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z16 !s92 -sv +incdir+../rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+n@d@d@s_@core
+Ydds_core_if
+Z17 2../tb/dds_params_pkg.sv|../tb/dds_core_if.sv|../tb/dds_pkg.sv|../tb/tb_top.sv
+R9
+R10
+!i10b 1
+!s100 ElKmgUi2Mz]<^4Jzd_8jU1
+IZfVPVRIVBbiLEchkMfMDJ2
+S1
+R11
+w1782987375
+8../tb/dds_core_if.sv
+F../tb/dds_core_if.sv
+!i122 4
+L0 9 0
+R12
+R13
+r1
+!s85 0
+31
+Z18 !s108 1785329220.000000
+Z19 !s107 ../tb/dds_test.sv|../tb/dds_sequences.sv|../tb/dds_env.sv|../tb/dds_coverage.sv|../tb/dds_scoreboard.sv|../tb/dds_agent.sv|../tb/dds_monitor.sv|../tb/dds_driver.sv|../tb/dds_seq_item.sv|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|../tb/tb_top.sv|../tb/dds_pkg.sv|../tb/dds_core_if.sv|../tb/dds_params_pkg.sv|
+Z20 !s90 -reportprogress|300|-sv|+incdir+../tb|../tb/dds_params_pkg.sv|../tb/dds_core_if.sv|../tb/dds_pkg.sv|../tb/tb_top.sv|
+!i113 0
+R15
+Z21 !s92 -sv +incdir+../tb -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+Xdds_params_pkg
+R17
+R9
+R10
+!i10b 1
+!s100 WY6D=T50MWcdzG4:3MQ7R3
+IiH2;79O`8CHM?l>cE4;KA2
+S1
+R11
+w1782987450
+8../tb/dds_params_pkg.sv
+F../tb/dds_params_pkg.sv
+!i122 4
+Z22 L0 5 0
+ViH2;79O`8CHM?l>cE4;KA2
+R13
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R15
+R21
+R7
+Xdds_pkg
+!i114 1
+R17
+!s115 dds_core_if
+R9
+Z23 DXx6 mtiUvm 7 uvm_pkg 0 22 MiVhEBb9cnBN5^J=<XBKI2
+Z24 DXx4 work 14 dds_params_pkg 0 22 iH2;79O`8CHM?l>cE4;KA2
+R10
+!i10b 1
+!s100 :nDVzaCk_Y:@8jQL4mo[>0
+IFz;FN;GGEa]]KCLiE;]7:3
+S1
+R11
+w1782987440
+8../tb/dds_pkg.sv
+F../tb/dds_pkg.sv
+Z25 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh
+Z26 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh
+Z27 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh
+Z28 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh
+Z29 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh
+Z30 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh
+Z31 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh
+Z32 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh
+Z33 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh
+Z34 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh
+Z35 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh
+Z36 FC:/questasim64_2024.1/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh
+F../tb/dds_seq_item.sv
+F../tb/dds_driver.sv
+F../tb/dds_monitor.sv
+F../tb/dds_agent.sv
+F../tb/dds_scoreboard.sv
+F../tb/dds_coverage.sv
+F../tb/dds_env.sv
+F../tb/dds_sequences.sv
+F../tb/dds_test.sv
+!i122 4
+R22
+VFz;FN;GGEa]]KCLiE;]7:3
+R13
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R15
+R21
+R7
+vPhase_Accumulator
+2../rtl/Phase_Accumulator.v
+R9
+Z37 !s110 1785329219
+!i10b 1
+!s100 a2TP^z3T?5I>m<hRk;jOJ3
+IJjbMVkZUoCf2D:JjPKd@?2
+S1
+R11
+w1782986783
+8../rtl/Phase_Accumulator.v
+F../rtl/Phase_Accumulator.v
+!i122 0
+L0 5 18
+R12
+R13
+r1
+!s85 0
+31
+R14
+!s107 ../rtl/Phase_Accumulator.v|
+!s90 -reportprogress|300|-sv|+incdir+../rtl|../rtl/Phase_Accumulator.v|
+!i113 0
+R15
+R16
+R7
+n@phase_@accumulator
+vPhase_Offset
+2../rtl/Phase_Offset.v
+R9
+R37
+!i10b 1
+!s100 ZgOh0mQ@n:8`a3_KLNoU31
+I1hol^LWNHlYM51O^o]TA71
+S1
+R11
+w1782986789
+8../rtl/Phase_Offset.v
+F../rtl/Phase_Offset.v
+!i122 1
+L0 3 22
+R12
+R13
+r1
+!s85 0
+31
+R14
+!s107 ../rtl/Phase_Offset.v|
+!s90 -reportprogress|300|-sv|+incdir+../rtl|../rtl/Phase_Offset.v|
+!i113 0
+R15
+R16
+R7
+n@phase_@offset
+vSine_LUT
+2../rtl/Sine_LUT.v
+R9
+R37
+!i10b 1
+!s100 TL[4aZ^[A@D4cEj@VHhm43
+IIz>a871d>l`DOh[^5F_Zo3
+S1
+R11
+w1782986838
+8../rtl/Sine_LUT.v
+F../rtl/Sine_LUT.v
+!i122 2
+L0 5 106
+R12
+R13
+r1
+!s85 0
+31
+R14
+!s107 ../rtl/Sine_LUT.v|
+!s90 -reportprogress|300|-sv|+incdir+../rtl|../rtl/Sine_LUT.v|
+!i113 0
+R15
+R16
+R7
+n@sine_@l@u@t
+vtb_top
+R17
+R9
+R23
+R24
+DXx4 work 7 dds_pkg 0 22 Fz;FN;GGEa]]KCLiE;]7:3
+R10
+!i10b 1
+!s100 2SOnE11z_91fCInD_0=E<1
+I7nVFYJ?bn;gZ6iJR>ZojD0
+S1
+R11
+w1782978488
+8../tb/tb_top.sv
+F../tb/tb_top.sv
+R25
+R26
+R27
+R28
+R29
+R30
+R31
+R32
+R33
+R34
+R35
+R36
+!i122 4
+L0 7 6503
+R12
+R13
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R15
+R21
+R7
